@@ -1,0 +1,31 @@
+*.dll
+*.bsa
+*.nif
+*.dds
+*.mp3
+*.esm
+*.txt
+DLC*
+Knights*
+Unofficial Oblivion*
+Unofficial Shivering*
+Morrowind_ob.*
+Oblivion*
+Backup/*
+BGSEE/*
+DistantLOD/*
+Docs/*
+Fonts/*
+Ini/*
+INI Tweaks/*
+LSData/*
+menus/*
+Meshes/*
+Music/*
+OBSE/*
+Shaders/*
+Sound/*
+TES4Edit Backups/*
+Textures/*
+Trees/*
+Video/*
