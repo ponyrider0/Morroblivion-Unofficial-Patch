@@ -5,6 +5,7 @@
 *.mp3
 *.esm
 *.txt
+ProtocolledDialogs*
 TRWorldMap*
 DLC*
 Knights*
